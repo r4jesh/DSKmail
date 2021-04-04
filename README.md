@@ -1,1 +1,1 @@
-[Download](https://g.co/payinvite/R08lw)
+[Google Pay](https://g.co/payinvite/R08lw)
