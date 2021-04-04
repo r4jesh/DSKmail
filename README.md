@@ -1,2 +1,1 @@
-## Google Pay
-https://g.co/payinvite/R08lw
+[Download](https://g.co/payinvite/R08lw)
