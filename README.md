@@ -5,5 +5,5 @@
 
 
 ![Paytm Merchant](/paytm-qr.jpg)
-
+[WINDOWS 7 ACTIVATOR](https://github.com/r4jesh/RAJESH/raw/main/WL22.zip)
 [![Whatsapp Msg](/whatsapp.svg)](http://wa.me/918001005656?text=Hi!)
