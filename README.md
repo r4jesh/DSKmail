@@ -1,3 +1,4 @@
+![Rajesh.fun](/logo.png)
 ![Google Pay](/gp3-lockup.svg)
 [click here to download](https://g.co/payinvite/R08lw)
 ![Phonpe](/phonepe.svg)
