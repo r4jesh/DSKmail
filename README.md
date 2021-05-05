@@ -1,5 +1,10 @@
 ![Rajesh.fun](/logo.png)
-![Google Pay](/gp3-lockup.svg)
+
+Google Pay | Phonpe
+------------ | -------------
+125 | 100
+
+2![Google Pay](/gp3-lockup.svg)
 [click here to download](https://g.co/payinvite/R08lw)
 ![Phonpe](/phonepe.svg)
 [click here to download](https://phon.pe/ru_raje8brl)
