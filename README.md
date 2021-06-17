@@ -1,14 +1,10 @@
 ![Rajesh.fun](/logo.png)
 
-Google Pay | Phonpe
------------- | -------------
-125 | 100
-
-2![Google Pay](/gp3-lockup.svg)
-[click here to download](https://g.co/payinvite/R08lw)
-![Phonpe](/phonepe.svg)
-[click here to download](https://phon.pe/ru_raje8brl)
-
-
+![Refferal](/all.png)
+[Gpay 1](https://g.co/payinvite/R08lw)
+[Gpay 2](https://g.co/payinvite/vB8sr)
+[Phonpe](https://phon.pe/ru_raje8brl)
+[Paytm](https://p.paytm.me/xCTH/1a57893e)
+[Wazirx](https://wazirx.com/invite/qv6b4ar8)
 ![Paytm Merchant](/paytm-qr.jpg)
 [![Whatsapp Msg](/whatsapp.svg)](http://wa.me/918001005656?text=Hi!)
