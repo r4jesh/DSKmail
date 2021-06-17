@@ -1,4 +1,4 @@
-![Rajesh.fun](/logo.png)
+![Rajesh.fun](/logo.jpg)
 
 ![Refferal](/all.png)
 [Gpay 1](https://g.co/payinvite/R08lw)
