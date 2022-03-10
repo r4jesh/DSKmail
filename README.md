@@ -11,5 +11,5 @@
 [Wazirx](https://wazirx.com/invite/qv6b4ar8)
 
 
-![Paytm Merchant](/paytm-qr.jpg)
+![Paytm Merchant](/qr11.jpg)
 [![Whatsapp Msg](/whatsapp.svg)](http://wa.me/918001005656?text=Hi!)
