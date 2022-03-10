@@ -2,13 +2,11 @@
 
 ![Refferal](/all.png)
 
-[Gpay 1](https://g.co/payinvite/R08lw)
+[Gpay 1](https://g.co/payinvite/pm0838z)
 
-[Gpay 2](https://g.co/payinvite/vB8sr)
+[Phonpe](https://phon.pe/ru_rajeiwezo)
 
-[Phonpe](https://phon.pe/ru_raje8brl)
-
-[Paytm](https://p.paytm.me/xCTH/1a57893e)
+[Paytm](https://p.paytm.me/xCTH/7d6b098a)
 
 [Wazirx](https://wazirx.com/invite/qv6b4ar8)
 
