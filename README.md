@@ -1,4 +1,4 @@
-![Rajesh.fun](/logo.jpg)
+![Rajesh.fun](/logo.png)
 
 ![Refferal](/all.png)
 
