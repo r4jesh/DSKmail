@@ -1,14 +1,14 @@
-![Rajesh.fun](/logo.png)
-
 ![Refferal](/all.png)
 
-[Gpay 1](https://g.co/payinvite/cc1aa4m) cc1aa4m
+[GPAY](https://g.co/payinvite/cc1aa4m) cc1aa4m
 
-[Phonpe](https://phon.pe/ru_rajeiwezo)
+[PHONPE](https://phon.pe/ru_rajeiwezo)
 
-[Paytm](https://p.paytm.me/xCTH/7d6b098a)
+[PAYTM](https://p.paytm.me/xCTH/7d6b098a)
 
-[Wazirx](https://wazirx.com/invite/qv6b4ar8)
+[WAZIRX](https://wazirx.com/invite/qv6b4ar8)
+
+[FI CODE] W3BNLQY62C
 
 
 ![phonepe Merchant](/qr11.jpg)
