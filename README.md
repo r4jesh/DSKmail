@@ -2,7 +2,7 @@
 
 ![Refferal](/all.png)
 
-[Gpay 1](https://g.co/payinvite/pm0838z)
+[Gpay 1](https://g.co/payinvite/cc1aa4m) cc1aa4m
 
 [Phonpe](https://phon.pe/ru_rajeiwezo)
 
@@ -11,5 +11,5 @@
 [Wazirx](https://wazirx.com/invite/qv6b4ar8)
 
 
-![Paytm Merchant](/qr11.jpg)
+![phonepe Merchant](/qr11.jpg)
 [![Whatsapp Msg](/whatsapp.svg)](http://wa.me/918001005656?text=Hi!)
