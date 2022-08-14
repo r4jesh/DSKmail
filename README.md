@@ -1,4 +1,4 @@
-![Refferal](/all.png)
+![Refferal](/flag.png)
 
 [GPAY](https://g.co/payinvite/ck4126n) ck4126n
 
