@@ -1,6 +1,6 @@
 ![Refferal](/flag.png)
 
-[GPAY](https://g.co/payinvite/ck4126n) ck4126n
+[GPAY](https://g.co/payinvite/v78mp5k) v78mp5k
 
 [PHONPE](https://phon.pe/ru_rajeiwezo)
 
