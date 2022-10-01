@@ -11,5 +11,5 @@
 [FI CODE] W3BNLQY62C
 
 
-[![phonepe Merchant](/qr11.jpg)](upi://pay?cu=INR&pa=bms.201018353801@indus&pn=Digital%20Seva%20Kendra%20&am=&tn=madargachi.in)
+[![phonepe Merchant](/qr11.jpg)](https://tools.apgy.in/upi/Digital+Seva+Kendra+/bms.201018353801@indus/)
 [![Whatsapp Msg](/whatsapp.svg)](http://wa.me/918001005656?text=Hi!)
