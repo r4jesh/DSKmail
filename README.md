@@ -1,10 +1,10 @@
 ![Refferal](/flag.png)
 
-[GPAY](https://g.co/payinvite/v78mp5k) v78mp5k
+[GPAY](https://g.co/payinvite/13a04s) 13a04s
 
-[PHONPE](https://phon.pe/ru_rajeiwezo)
+[PHONPE](https://phon.pe/ru_raje8brl) 56
 
-[PAYTM](https://p.paytm.me/xCTH/7d6b098a)
+[PAYTM](https://p.paytm.me/xCTH/mhw88ffh)
 
 [WAZIRX](https://wazirx.com/invite/qv6b4ar8)
 
