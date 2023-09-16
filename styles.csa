@@ -1,0 +1,62 @@
+/* Reset some default styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Basic styling */
+body {
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #4267B2; /* Facebook blue color */
+  padding: 10px;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo {
+  color: #fff; /* White text color */
+  font-size: 24px;
+}
+
+.menu li {
+  display: inline-block;
+}
+
+.menu a {
+  color: #fff; /* White text color */
+  text-decoration: none;
+  margin-left: 10px;
+}
+
+main {
+  padding: 20px;
+}
+
+.post {
+   margin-bottom:20px; 
+   border-bottom:solid #ddd; 
+   padding-bottom:20px; 
+   display:flex; 
+   flex-direction:column; 
+   align-items:center
+ }
+
+.post-header img{
+    width :50px ;
+    height :50px ;
+    border-radius :50% ;
+    margin-right :10px ;
+ }
+
+footer{
+    background-color:#f4f4f4 ; 
+    padding :10px ; 
+    text-align:center ;
+}
